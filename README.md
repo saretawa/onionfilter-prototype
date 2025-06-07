@@ -19,10 +19,9 @@
 7. [Example Commands](#example-commands)
 8. [Recommended `.gitignore`](#recommended-gitignore)
 9. [Use Cases](#use-cases)
-10. [Future Enhancements](#future-enhancements)
-11. [Disclaimer & Legal Notice](#disclaimer--legal-notice)
-12. [License](#license)
-13. [Credits](#credits)
+10. [Disclaimer & Legal Notice](#disclaimer--legal-notice)
+11. [License](#license)
+12. [Credits](#credits)
 
 ---
 
