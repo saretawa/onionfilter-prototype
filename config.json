@@ -1,0 +1,18 @@
+{
+  "sources": [
+    "https://ahmia.fi/onions/",
+    "https://onion.live/",
+    "https://deeponionweb.com/",
+    "https://tor.taxi/"
+  ],
+  "keywords": [
+    "breach", "leak", "dump", "database leak", "data breach", "user dump", "credentials dump",
+    "internal leak", "confidential data", "combo list", "sql dump",
+    "access logs", "targeted attack", "employee dump", "vpn credentials",
+    "email:password", "plaintext passwords", "ftp dump", "leaked database"
+  ],
+  "scam_patterns": [
+    "bitcoin doubler", "free bitcoin", "btc adder", "gift card generator",
+    "make money fast", "double your bitcoin"
+  ]
+}
